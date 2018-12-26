@@ -1,25 +1,9 @@
 # README
+playing around with the fitbit api to increase fluency in transferring data across middleware into a rails app with a react/nodeJS wrapper around it for the front-end.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
+use foreman 
+look up the docs for how-to
 * ...
 # fitbit-react-rails
